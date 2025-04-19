@@ -132,8 +132,6 @@ export default function QuizContent({ type }: { type: "short" | "long" }) {
                 {currentQuestion.options.map((option, idx) => {
                   const isCorrect = option === currentQuestion.answer;
                   const isSelected = option === selectedAnswer;
-
-                  let variant: "default" | "secondary" = "secondary";
                   let customStyle = "";
 
                   if (showFeedback) {
@@ -147,7 +145,7 @@ export default function QuizContent({ type }: { type: "short" | "long" }) {
                   return (
                     <Button
                       key={idx}
-                      variant={variant}
+                      variant={"secondary"}
                       disabled={showFeedback}
                       onClick={() => handleAnswer(option)}
                       className={`w-full justify-center whitespace-normal break-words flex-1 ${customStyle} h-full`}

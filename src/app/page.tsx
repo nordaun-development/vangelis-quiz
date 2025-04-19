@@ -7,15 +7,15 @@ export default function Home() {
     <div className="flex w-full h-full justify-center items-center px-4 py-8">
       <div className="flex flex-col w-full h-full items-center justify-center gap-4 max-w-[800px] text-center">
         <div className="animated-spin">
-            <Image src={"/disc.png"} alt="Vangelis' China Disc" width={140} height={140}/>
+            <Image src={"/disc.png"} alt="Vangelis´ China Disc" width={140} height={140}/>
         </div>
         <h1 className="font-bold text-3xl my-4">
           Vangelis Quiz
         </h1>
         <p>
-          This quiz has been created by Zoltán Horváth to celebrate Vangelis'
+          This quiz has been created by Zoltán Horváth to celebrate Vangelis´
           music. It was published on 17 May 2025, on the third anniversary of
-          our Maestro's decease.
+          our Maestro´ decease.
         </p>
 
         <p>
