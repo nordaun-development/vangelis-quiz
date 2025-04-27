@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
         <p>© Zoltan Horvath</p>
         <p>
-          This quiz has been created to celebrate Vangelis' music. The questions span his career from his early works to his last compositions. We hope that both the occasional listeners and the long-time fans will find it appealing.
+          This quiz has been created to celebrate Vangelis´ music. The questions span his career from his early works to his last compositions. We hope that both the occasional listeners and the long-time fans will find it appealing.
         </p>
         <p>
           You can choose from two versions of the quiz. The long version
