@@ -34,7 +34,7 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <main className="h-[100dvh] absolute left-0 top-0 overflow-hidden w-dvw bg-background">
+          <main className="h-dvh w-dvw left-0 top-0 overflow-scroll bg-background">
             {children}
           </main>
         </ThemeProvider>

@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="flex w-full h-full justify-center items-center px-4 py-8">
+    <div className="flex w-full h-full justify-center items-center px-4 my-8">
       <div className="flex flex-col w-full h-full items-center justify-center gap-4 max-w-[800px] text-center">
         <div className="animated-spin">
             <Image src={"/disc.png"} alt="Vangelis´ China Disc" width={140} height={140}/>
@@ -12,16 +12,9 @@ export default function Home() {
         <h1 className="font-bold text-3xl my-4">
           Vangelis Quiz
         </h1>
+        <p>© Zoltan Horvath</p>
         <p>
-          This quiz has been created by Zoltán Horváth to celebrate Vangelis´
-          music. It was published on 17 May 2025, on the third anniversary of
-          our Maestro´ decease.
-        </p>
-
-        <p>
-          The quiz covers the entire career of Vangelis, from his early creative
-          years to the last works. I hope that both the occasional listeners and
-          the long-time fans will find it appealing.
+          This quiz has been created to celebrate Vangelis' music. The questions span his career from his early works to his last compositions. We hope that both the occasional listeners and the long-time fans will find it appealing.
         </p>
         <p>
           You can choose from two versions of the quiz. The long version
