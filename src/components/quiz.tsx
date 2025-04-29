@@ -55,7 +55,7 @@ export const quizContent: Quiz[] = [
   {
     id: 5,
     question:
-      '"Fais que ton rêve soit plus long que la nuit" is a 1972 album of Vangelis, which was inspired by...',
+      '"Fais que ton rêve soit plus long que la nuit" (May your dream be longer than the night) is a 1972 album of Vangelis, which was inspired by...',
     options: [
       "the events in Paris, May 1968",
       "a French cabaret show",
@@ -76,7 +76,7 @@ export const quizContent: Quiz[] = [
       "Silent Portraits and The Bounty",
     ],
     reason:
-      "Both albums were released on LP in the 1970s, and sold in large quantities without Vangelis' permission.",
+      "Both albums were released on LP in the late 70s, and sold in large quantities without Vangelis' permission.",
     answer: "The Dragon and Hypothesis",
   },
   {
@@ -121,7 +121,7 @@ export const quizContent: Quiz[] = [
     question:
       "Which statement is NOT true? Heaven And Hell was Vangelis' first album…",
     options: [
-      "released on Polydor label",
+      "released on BMG Arista label",
       "recorded at Nemo Studios, London",
       "featuring a collaboration with Jon Anderson",
       "omitting his surname Papathanassiou on the sleeve",
@@ -194,7 +194,7 @@ export const quizContent: Quiz[] = [
       "Opera Sauvage",
     ],
     reason:
-      "Only the title track has been released on the Portraits compilation album.",
+      "Only the title track was released on the Portraits compilation album.",
     answer: "Sauvage et Beau",
   },
   {
@@ -246,7 +246,7 @@ export const quizContent: Quiz[] = [
   {
     id: 22,
     question:
-      "At the opening ceremony of the 6th World Championships in Athletics (1997), Vangelis performed two songs with...",
+      "At the opening ceremony of the 6th World Championship in Athletics (Athens, 1997), Vangelis performed two songs with...",
     options: [
       "Montserrat Caballé",
       "Maria Farantouri",
@@ -254,7 +254,7 @@ export const quizContent: Quiz[] = [
       "Melina Mercouri",
     ],
     reason:
-      "March with Me and The Prayer, released on Caballé compilation albums with a third collaboration track, Like a Dream.",
+      "March with Me and The Prayer were released on Caballé compilation albums, together with a third collaboration track, Like a Dream.",
     answer: "Montserrat Caballé",
   },
   {
@@ -293,7 +293,7 @@ export const quizContent: Quiz[] = [
     id: 26,
     question: "What was the location of the Mythodea concert in 2001?",
     options: [
-      "Temple of (Olympian) Zeus, Athens",
+      "Temple of Olympian Zeus, Athens",
       "Herodion theatre, Athens",
       "Panathinaiko stadium, Athens",
       "Zappeion Hall, Athens",
@@ -451,7 +451,7 @@ export const quizContent: Quiz[] = [
       "2",
       "1",
       "3",
-      "Their only collaboration is the track Infinity on Aphrodite's Child 666 album",
+      "None. Their only collaboration is the track Infinity on Aphrodite's Child 666 album",
     ],
     reason: "Odes (1979) and Rapsodies (1986).",
     answer: "2",
@@ -465,7 +465,7 @@ export const quizContent: Quiz[] = [
       "features an a cappella performance by Irene Papas",
       "describes a murder of jealousy",
     ],
-    reason: null,
+    reason: "La Danse du Feu is a 3-part composition, Les Kolokotronei is a cappella, Menousis chronicles a murder story.",
     answer: "is an original instrumental composition by Vangelis",
   },
   {
@@ -485,7 +485,7 @@ export const quizContent: Quiz[] = [
     id: 44,
     question: "Suffocation (from See You Later album) was inspired by...",
     options: [
-      "the industrial accident in Seveso",
+      "the industrial accident in Seveso, Italy",
       "Vangelis' feeling toward the record company",
       "a tempest on the English Channel, dissuading Vangelis from crossing",
       "a military exhibition in London, showcasing gas masks",
@@ -531,7 +531,7 @@ export const quizContent: Quiz[] = [
       "Back to School",
     ],
     reason:
-      "I'll Find My Way Home was released in the end of 1981, and added to the subsequent releases of the Mr. Cairo album.",
+      "I'll Find My Way Home was released as a single in the end of 1981, and added to the subsequent releases of the Mr. Cairo album.",
     answer: "I'll Find My Way Home",
   },
   {
@@ -549,8 +549,8 @@ export const quizContent: Quiz[] = [
   {
     id: 49,
     question: "The lyrics of the track Italian Song are in this language.",
-    options: ["constructed language", "English", "Italian", "Latin"],
-    reason: null,
+    options: ["constructed language", "English", "Italian", "it is an instrumental track"],
+    reason: "Sung by Jon Anderson on the Private Collection album.",
     answer: "constructed language",
   },
   {
@@ -601,16 +601,16 @@ export const quizContent: Quiz[] = [
   },
   {
     id: 54,
-    question: "Which Vangelis album has 4 tracks?",
+    question: "Which statement is from Vangelis?",
     options: [
-      "There is no such album",
-      "Heaven And Hell",
-      "Spiral",
-      "Invisible Connections",
+      "I function as a channel through which music emerges from the chaos of noise.",
+      "Without craftsmanship, inspiration is a mere reed shaken in the wind.",
+      "I was obliged to be industrious. Whoever is equally industrious will succeed equally well.",
+      "Inspiration is a guest that does not willingly visit the lazy.",
     ],
     reason:
-      "Somewhat surprising, as he has albums with 2, 3, 5, 6, 7, 8, 9 etc tracks.",
-    answer: "There is no such album",
+      "The other quotes are from Bach, Brahms, Tchaikovsky.",
+    answer: "I function as a channel through which music emerges from the chaos of noise.",
   },
   {
     id: 55,
@@ -778,7 +778,7 @@ export const quizContent: Quiz[] = [
     options: [
       "It is a style which gave the opportunity for untalented people to make very boring music.",
       "New age music and my albums have a lot of common roots.",
-      "I've been constantly monitoring and inspired by the new age music scene.",
+      "How could I comment it? I'm an old aged musician.",
       "I am enthusiastic about New Age spiritualism, and music which is suitable for meditation and healing.",
     ],
     reason: null,
@@ -791,11 +791,11 @@ export const quizContent: Quiz[] = [
     options: [
       "The El Greco soundtrack album has a Greco painting on its front sleeve.",
       "The Foros Timis ston Greco studio album has been sold by the National Gallery of Athens.",
-      "The El Greco soundtrack contains compositions from other Greek musicians.",
+      "The El Greco soundtrack contains some compositions from other Greek musicians.",
       "The El Greco studio album has movements performed by opera singers.",
     ],
     reason:
-      "The soundtrack album only bears the El Greco insciption on its front sleeve. The El Greco studio album features a work of the painter.",
+      "The soundtrack album only bears the El Greco inscription on its front sleeve. The El Greco studio album features a work of the painter.",
     answer:
       "The El Greco soundtrack album has a Greco painting on its front sleeve.",
   },
@@ -833,7 +833,7 @@ export const quizContent: Quiz[] = [
       "El Greco studio album",
     ],
     reason:
-      "It seems that in the second half of the 1990s Warner Music considered the LP format outdated.",
+      "It seems that by the second half of the 90s Warner Music considered the LP format outdated.",
     answer: "El Greco soundtrack album",
   },
   {
@@ -879,7 +879,7 @@ export const quizContent: Quiz[] = [
     question: "Which of these Vangelis soundtracks has had an album release?",
     options: ["Blade Runner", "Missing", "The Bounty", "Bitter Moon"],
     reason:
-      "From the other films only the title music has been released on Vanglis compilation albums.",
+      "From the other films only the title music has been released on Vangelis compilation albums.",
     answer: "Blade Runner",
   },
   {
@@ -940,7 +940,7 @@ export const quizContent: Quiz[] = [
     question:
       "In which way the Conquest of Paradise (title) track is linked to the times of Columbus?",
     options: [
-      "The chord progression of the verse is based on the Folia theme.",
+      "The chord progression of the verse is based on the period Folia theme.",
       "The choir sings liturgical texts in it.",
       "Ridley Scott liked the track so much, that he donated a Columbus manuscript to Vangelis.",
       "Vangelis used a Renaissance harp during the recording.",
@@ -976,7 +976,7 @@ export const quizContent: Quiz[] = [
   },
   {
     id: 86,
-    question: "Which album contains older Vangelis pieces, reworked for piano?",
+    question: "Which album contains some older Vangelis pieces, reworked for piano?",
     options: ["Nocturne", "L'Apocalypse des Animaux", "Mask", "Odyssey"],
     reason: null,
     answer: "Nocturne",

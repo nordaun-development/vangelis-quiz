@@ -121,7 +121,7 @@
 }
 
 .animated-spin {
-    animation: spin 3s linear infinite;
+    animation: spin 1.8s linear infinite;
 }
 
 @keyframes spin {
