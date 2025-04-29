@@ -127,7 +127,7 @@ export const quizContent: Quiz[] = [
       "omitting his surname Papathanassiou on the sleeve",
     ],
     reason: "H&H was released on RCA label.",
-    answer: "released on Polydor label",
+    answer: "released on BMG Arista label",
   },
   {
     id: 12,
@@ -299,7 +299,7 @@ export const quizContent: Quiz[] = [
       "Zappeion Hall, Athens",
     ],
     reason: null,
-    answer: "Temple of (Olympian) Zeus, Athens",
+    answer: "Temple of Olympian Zeus, Athens",
   },
   {
     id: 27,
@@ -491,7 +491,7 @@ export const quizContent: Quiz[] = [
       "a military exhibition in London, showcasing gas masks",
     ],
     reason: null,
-    answer: "the industrial accident in Seveso",
+    answer: "the industrial accident in Seveso, Italy",
   },
   {
     id: 45,
@@ -946,7 +946,7 @@ export const quizContent: Quiz[] = [
       "Vangelis used a Renaissance harp during the recording.",
     ],
     reason: null,
-    answer: "The chord progression of the verse is based on the Folia theme.",
+    answer: "The chord progression of the verse is based on the period Folia theme.",
   },
   {
     id: 84,
