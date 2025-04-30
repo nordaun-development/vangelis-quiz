@@ -105,7 +105,7 @@ export const quizContent: Quiz[] = [
       "is a short track of merely one minute",
     ],
     reason:
-      "From the same album, Creation du Monde is the space-themed track, La Singe Bleu has flugelhorn, and L'Ours Musicien is just one minute long.",
+      "From the same album, Creation du Monde is the space-themed track, Le Singe Bleu has flugelhorn, and L'Ours Musicien is just one minute long.",
     answer: "is featured on many Vangelis compilation albums",
   },
   {
