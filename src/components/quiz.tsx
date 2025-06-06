@@ -866,13 +866,13 @@ export const quizContent: Quiz[] = [
     id: 76,
     question: "The Direct album took its name from...",
     options: [
-      "Vangelis' new recording device, eliminating the overdubs",
+      "Vangelis' new recording technique, eliminating the overdubs",
       "Vangelis' desire to maintain closer relations with his fans",
       "Some digital synthesizers were powered by direct current",
       "the most accessible (title) track on the album",
     ],
     reason: null,
-    answer: "Vangelis' new recording device, eliminating the overdubs",
+    answer: "Vangelis' new recording technique, eliminating the overdubs",
   },
   {
     id: 77,
